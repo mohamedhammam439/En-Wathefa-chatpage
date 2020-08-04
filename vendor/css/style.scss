@@ -907,7 +907,8 @@ section{
                     margin: 5px 20px;
                     padding: 10px 15px;
                     background-color: #ffff;
-                    max-width: 40%;
+                    max-width: 65%;
+                    width: fit-content;
                     border-bottom-left-radius: 12px;
                     border-bottom-right-radius: 12px;
                     border-top-right-radius: 12px;
@@ -930,6 +931,7 @@ section{
                     padding: 10px 15px;
                     background-color: #dcf8c6;
                     max-width: 40%;
+                    width: fit-content;
                     margin: 5px 20px 5px auto;
                     border-bottom-left-radius: 12px;
                     border-bottom-right-radius: 12px;
@@ -1194,10 +1196,12 @@ section{
                     background-image: url(../images/tw0nawnvo0zpgm5nx4fp.png);
                     background-size: contain;
                     .recive{
-                        margin: 5px 20px;
+                        margin: 20px 20px;
                         padding: 10px 15px;
                         background-color: #ffff;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 75%;
+                        min-width: 32%;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
                         border-top-right-radius: 12px;
@@ -1219,7 +1223,9 @@ section{
                     .send{
                         padding: 10px 15px;
                         background-color: #dcf8c6;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 75%;
+                        min-width: 32%;
                         margin: 5px 20px 5px auto;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
@@ -1484,10 +1490,12 @@ section{
                     background-image: url(../images/tw0nawnvo0zpgm5nx4fp.png);
                     background-size: contain;
                     .recive{
-                        margin: 5px 20px;
+                        margin: 20px 20px;
                         padding: 10px 15px;
                         background-color: #ffff;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 65%;
+                        min-width: 20%;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
                         border-top-right-radius: 12px;
@@ -1509,7 +1517,9 @@ section{
                     .send{
                         padding: 10px 15px;
                         background-color: #dcf8c6;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 65%;
+                        min-width: 20%;
                         margin: 5px 20px 5px auto;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
@@ -1774,10 +1784,12 @@ section{
                     background-image: url(../images/tw0nawnvo0zpgm5nx4fp.png);
                     background-size: contain;
                     .recive{
-                        margin: 5px 20px;
+                        margin: 20px 20px;
                         padding: 10px 15px;
                         background-color: #ffff;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 65%;
+                        min-width: 20%;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
                         border-top-right-radius: 12px;
@@ -1799,7 +1811,9 @@ section{
                     .send{
                         padding: 10px 15px;
                         background-color: #dcf8c6;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 65%;
+                        min-width: 20%;
                         margin: 5px 20px 5px auto;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
@@ -2064,10 +2078,12 @@ section{
                     background-image: url(../images/tw0nawnvo0zpgm5nx4fp.png);
                     background-size: contain;
                     .recive{
-                        margin: 5px 20px;
+                        margin: 20px 20px;
                         padding: 10px 15px;
                         background-color: #ffff;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 65%;
+                        min-width: 20%;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
                         border-top-right-radius: 12px;
@@ -2089,7 +2105,9 @@ section{
                     .send{
                         padding: 10px 15px;
                         background-color: #dcf8c6;
-                        max-width: 40%;
+                        width: fit-content;
+                        max-width: 65%;
+                        min-width: 20%;
                         margin: 5px 20px 5px auto;
                         border-bottom-left-radius: 12px;
                         border-bottom-right-radius: 12px;
